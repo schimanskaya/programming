@@ -1,0 +1,3 @@
+C:/Users/4864241/source/repos/programming/programming/NewRes2/CMakeFiles/Laba2.dir
+C:/Users/4864241/source/repos/programming/programming/NewRes2/CMakeFiles/ALL_BUILD.dir
+C:/Users/4864241/source/repos/programming/programming/NewRes2/CMakeFiles/ZERO_CHECK.dir
